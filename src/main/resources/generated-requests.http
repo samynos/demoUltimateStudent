@@ -17,6 +17,16 @@ Content-Type: application/json
   "dob": "2000-12-17"
 }
 
+###
+POST http://localhost:8888/api/v1/student
+Content-Type: application/json
+
+{
+"name": "dilal",
+"email": "somy.ayadi@gmail.com",
+"dob": "2000-12-17"
+}
+
 
 ### 2023.08.30
 ###
