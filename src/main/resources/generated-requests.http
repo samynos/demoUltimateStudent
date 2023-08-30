@@ -12,7 +12,7 @@ POST http://localhost:8888/api/v1/student
 Content-Type: application/json
 
 {
-  "name": "hilal",
+  "name": "hilalo",
   "email": "amina.ayadi@gmail.com",
   "dob": "2000-12-17"
 }
